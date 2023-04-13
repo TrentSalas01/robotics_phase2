@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+
+##### manual_initialization used from https://github.com/hsaeidi-uncw/ur5e_control/blob/main/scripts/manual_initialization.py
+
 import rospy
 import math
 # import the messages for reading the joint positions and sending joint commands
